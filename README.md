@@ -1,4 +1,4 @@
-# TCP Connection Viewer Pro
+# CyberWatch
 
 A real-time TCP network monitoring tool built with Python.
 
@@ -43,3 +43,12 @@ This project was built to learn:
 - Process monitoring
 - Cybersecurity fundamentals
 - Real-time terminal dashboards# cyberwatch
+
+## Future Improvements
+
+- Real-time traffic graphs
+- Export connection logs
+- Suspicious IP detection
+- GeoIP lookup
+- Packet sniffing support
+- Bandwidth monitoring
